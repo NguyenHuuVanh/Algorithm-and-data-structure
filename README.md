@@ -1,0 +1,2 @@
+- Quá trình học cấu trúc dữ liệu và thuật toán trong năm nhất
+- Không học quá chuyên sâu
